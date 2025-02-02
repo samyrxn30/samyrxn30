@@ -10,7 +10,7 @@
 Sou estudante do terceiro ano do ensino medio, integrado ao curso tecnico Redes de computadores. Pretendo cursar segurança da informação.
 
  ## Hard skills que tenho.
- Atualmente busco aprimorar meus conhecimentos em backend, ao qual busco foco em desenvolvimento de RestApi com foco em boas praticas de clean code e design patern, alem de apriomorar aprendizados em arquitetura de micro services, arquitetura baseada em eventos e etc.
+ Atualmente busco aprimorar meus conhecimentos em backend, ao qual busco foco em desenvolvimento de RestApi com foco em boas praticas de clean code e design patern, alem de aprimorar aprendizados em arquitetura de micro services, arquitetura baseada em eventos e etc.
  
 
 
