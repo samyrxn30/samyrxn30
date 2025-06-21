@@ -1,8 +1,8 @@
 
 
 # Um pouco sobre mim
-- I am currently 17 years old 
-- 👋 Hi, I’m @Samyr
+- I am currently 18 years old 
+- 👋 Hi, I’m Samyr
 - contat: samyraraujo46@gmail.com
 - 👀 I’m interested in Backend 
 
