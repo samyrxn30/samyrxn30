@@ -21,7 +21,7 @@ Sou estudante do terceiro ano do ensino medio, integrado ao curso tecnico Redes 
 - Express 
 - Docker 
 - Ngnix (basic)
-- MySQL 
+- DDD (Domain Driver Design)
 - Git/GitHub 
 - Swagger
 - MySQL
