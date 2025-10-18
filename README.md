@@ -39,9 +39,9 @@ Desenvolvedor focado em criar soluções backend eficientes e escaláveis, aplic
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Arquitetura & Design
-![DDD](https://img.shields.io/badge/DDD-0078D4?style=for-the-badge&logo=&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge&logo=&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-0078D4?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -63,19 +63,15 @@ Desenvolvedor focado em criar soluções backend eficientes e escaláveis, aplic
 
 ## 💼 Conceitos Aplicados
 
-- **ORM**: Prisma Client para manipulação eficiente de dados
-- **Containerização**: Docker para ambientes consistentes
-- **Proxy Reverso**: Nginx para balanceamento de carga
-- **DDD**: Domain-Driven Design para modelagem de domínio
-- **Clean Architecture**: Separação de responsabilidades e independência de frameworks
-- **Design Patterns**: Implementação de padrões de projeto
-- **Autenticação**: JWT para segurança stateless
-- **Documentação**: Swagger para APIs REST
-- **Controle de Versão**: Git/GitHub para versionamento
-
----
-
-
+- **ORM**: Prisma Client para manipulação eficiente de dados  
+- **Containerização**: Docker para ambientes consistentes  
+- **Proxy Reverso**: Nginx para balanceamento de carga  
+- **DDD**: Domain-Driven Design para modelagem de domínio  
+- **Clean Architecture**: Separação de responsabilidades e independência de frameworks  
+- **Design Patterns**: Implementação de padrões de projeto  
+- **Autenticação**: JWT para segurança stateless  
+- **Documentação**: Swagger para APIs REST  
+- **Controle de Versão**: Git/GitHub para versionamento  
 
 ---
 
@@ -95,14 +91,7 @@ Desenvolvedor focado em criar soluções backend eficientes e escaláveis, aplic
   
 💼 **Aberto para colaborações e novos projetos!**
 
-
 </div>
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/samyrxn30/samyrxn30/output/snake.svg" alt="Snake animation" />
 
 ###
